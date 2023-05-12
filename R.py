@@ -684,7 +684,7 @@ def approval():
       print(" \033[1;31m\033[1;42mNote: If You Are Free User Don't Come IB\033[0;0m")
       print(f'\n{WHITE}=============================')
       input(f'\n {GREEN}PRESS ENTER TO BUY TOOLS ')
-      tks = ('Hello%UMAIR%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801712034653?text='+tks),approval()
+      tks = ('Hello%ALAMGIRVAU%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801712034653?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
