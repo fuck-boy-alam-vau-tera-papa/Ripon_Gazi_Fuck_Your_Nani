@@ -193,7 +193,7 @@ except IOError:
     kok.close()
     print(key)
 
-a=requests.get("https://github.com/R1F4T-2-0/M1X-2009/blob/main/X9XSO320.txt").text
+a=requests.get("https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt").text
 b=str(a)
 key1=open("/storage/emulated/0/android8.txt",'r').read()
 key2=str(key1)  
@@ -270,10 +270,10 @@ def admin():
 		os.system('xdg-open https://wa.me/+8801735787710');time.sleep(1)
 		admin()
 	if bal =='2':
-		os.system('xdg-open https://www.facebook.com/R1F4T.OFFICIAL.ACCOUNT');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/Normal.User.Alamgir');time.sleep(1)
 		admin()
 	if bal =='3':
-		os.system('xdg-open https://github.com/R1F4T-2-0');time.sleep(1)
+		os.system('xdg-open https://www.facebook.com/Normal.User.Alamgir');time.sleep(1)
 		admin()
 	if bal =='0':
 		Main()
