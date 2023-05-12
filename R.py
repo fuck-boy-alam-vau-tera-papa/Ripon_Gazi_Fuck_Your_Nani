@@ -221,7 +221,7 @@ logo ="""\033[1;32m
 \033[1;91m█  \033[1;91m####### \033[1;93m  ##       \033[1;94m##        \033[1;95m      ##  \033[1;32m#########    \033[1;91m#### \033[1;93m##    ## \033[1;91m█ 
 \033[1;99m╚════════════════════════════════════════════════════════════════════╝
 [+]====================================================[+]
-[+] CREATED BY   :  U7P4L IN                           [+]
+[+] CREATED BY   :  ALAMGIR                           [+]
 [+] COUNTRY      :  BANGLADESH                         [+]
 [+] ON GITHUB    :  U7P4L-IN                           [+]
 [+] TOOL STATUS  :  RANDOM CLONING                     [+]
@@ -274,7 +274,7 @@ def main():
     print (' \t     \033[1;37m[ \033[1;32mMAIN MENU \033[1;37m]')
     print('\033[1;97m====================================================') 
     print(f"\033[1;97m[01] \033[1;92mRandom Clone ")
-    print(f"\033[1;97m[02] \033[1;92mFollow Me On GITHUB ")
+    print(f"\033[1;97m[02] \033[1;92mFollow Me ALAMGIR On GITHUB ")
     print(f"\033[1;97m[00] \033[1;92mEXIT ")
     print('\033[1;97m====================================================') 
     adi = input("\033[1;37m[\033[1;31m!\033[1;37m]\033[1;32m SELECT OPTION \033[1;37m: \033[1;36m")
@@ -662,7 +662,7 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://ekingcommand.blogspot.com/2023/01/keytxt.html?m=1').text
+    httpCaht = requests.get('https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt').text
     if id in httpCaht:
       print("\33[1;32mYOUR TOKEN Is SUCCESSFULLY APPROVED BY UMAIRJUTT")
       msg = str(os.geteuid())
@@ -684,7 +684,7 @@ def approval():
       print(" \033[1;31m\033[1;42mNote: If You Are Free User Don't Come IB\033[0;0m")
       print(f'\n{WHITE}=============================')
       input(f'\n {GREEN}PRESS ENTER TO BUY TOOLS ')
-      tks = ('Hello%ALAMGIRVAU%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801712034653?text='+tks),approval()
+      tks = ('Hello%ALAMGIR%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801712034653?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
