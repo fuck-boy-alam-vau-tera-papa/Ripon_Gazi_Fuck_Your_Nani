@@ -183,7 +183,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://raw.githubusercontent.com/MR-UMAIR404/UMAIR-pro1/main/aprooval.txt').text
+        a=requests.get('https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt').text
         ua=open('.bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -684,7 +684,7 @@ def approval():
       print(" \033[1;31m\033[1;42mNote: If You Are Free User Don't Come IB\033[0;0m")
       print(f'\n{WHITE}=============================')
       input(f'\n {GREEN}PRESS ENTER TO BUY TOOLS ')
-      tks = ('Hello%UMAIR%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+923411471937?text='+tks),approval()
+      tks = ('Hello%UMAIR%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801712034653?text='+tks),approval()
       time.sleep(1)
       approval()
   except:
